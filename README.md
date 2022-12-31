@@ -14,6 +14,9 @@ Evaluate the model:
 Deploy the model:
 	If the model performs well, you can deploy it for use in a real-world application. You can use the trained model to predict the emotion of a given audio file.
   
+For this task as I was a rookie to the field of Audio Processing in Python, I reached out to YouTube and gained the adequate knowledge of processing audio files using the librosa library, loading the files, playing an audio file, plotting raw audio, plotting spectograms and mel-spectograms, feature extraction - mfcc & chroma.
+
+
 RAVDESS Dataset : 
 (https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
